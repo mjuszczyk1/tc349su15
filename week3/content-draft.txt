@@ -1,0 +1,11 @@
+Sections:
+- current/future artists (Since these will most likely all be similar)
+	"Featuring favorites from around Lansing and Michigan as well as larger national acts, MAC Fest brings together student favorites driven by input from the students themselves."
+	- schedule/lineup
+- participating locations (bars)
+	""
+- volunteer sign-up
+	""
+- history/about us
+	"MAC Fest started in 2015 as a design project by a Media and Information major at Michigan State University. The vision was to create a music and arts festival that would get students and community members alike to get out and enjoy the city they live in. By booking local bands and artists, MAC Fest was thought of as a way to propel local artists into the national scene."
+- tickets
