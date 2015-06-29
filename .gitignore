@@ -1,5 +1,5 @@
 ignored/*
 .DS_Store
 node_modules
-.less
+week6/assets/css/*.less
 
