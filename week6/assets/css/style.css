@@ -59,6 +59,12 @@
 .third {
   width: 33.3333333%;
 }
+.row-news.frontpage .news-col {
+  margin-left: 13px;
+}
+.row-news.frontpage .spotify-col {
+  margin-left: -37px;
+}
 header {
   height: 150px;
 }
@@ -149,6 +155,27 @@ header.lineup {
 .headline {
   margin: 5px 0;
 }
+.mi-navtive {
+  color: #294c65;
+  font-size: larger;
+}
+.mi-native-tag {
+  margin-top: -15px;
+}
+.media-icons {
+  padding-left: 25px;
+  margin-top: 10px;
+  font-size: 20px;
+  color: white;
+}
+.media-icons i {
+  padding: 0 5px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.media-icons i:hover {
+  color: #014225;
+}
 .row-news {
   padding-bottom: 50px;
 }
@@ -223,6 +250,9 @@ header.lineup {
   position: relative;
   left: 10px;
 }
+.lineup .mi-native-tag {
+  margin-top: 0px;
+}
 .foot {
   height: 300px;
   background: #777777;
@@ -238,6 +268,9 @@ header.lineup {
   min-height: 50px;
   border-bottom: 30px;
   border-radius: 50px;
+}
+.foot .foot-navbar .active {
+  background: #014225;
 }
 .foot .foot-navbar .navbar-lists .menu {
   list-style: none;
